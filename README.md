@@ -12,16 +12,17 @@
 # Hello, I'm youngJin Kim!
 
 I'm growing developer.
-I belong to a team responsible for corporate IT. However, it is not an IT company. <br>
-So I am preparing to move to an IT company. <br>
-I am interested in learning new skills. These days, I am studying springboot and JPA, and I plan to continue studying Node.js. <br>
+I am interested in interactive development. <br>
+I want to do creative visible development. <br>
+I am also interested in new technologies such as artificial intelligence and blockchain. <br>
+I am interested in learning new skills. These days, I am studying React and Typescript, and I plan to continue studying Node.js. <br>
 Thank you for watching with interest.
 
 
 ### ✨ Summary
 
 - 🔭 I’m currently Looking for a job
-- 🌱 I'm currently learning Front-end Skill(React), Algorithm.
+- 🌱 I'm currently learning Front-end Skill(React, Typescript), Algorithm.
 - 📝 I regularly write articles on [my blog](https://yjym33.tistory.com/). 
 <br>
 
