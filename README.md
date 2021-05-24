@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-<a href="https://github.com/kymkyj" target="_blank">
+<a href="https://github.com/yjym33" target="_blank">
   <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://okdolmin.tistory.com/" target="_blank">
+<a href="https://yjym33.tistory.com/" target="_blank">
   <img src=https://img.shields.io/badge/blog-%2324292e.svg?&style=for-the-badge&logo=blog&logoColor=white style="margin-bottom: 5px;" />
 </a>  
 
@@ -20,9 +20,9 @@ Thank you for watching with interest.
 
 ### ✨ Summary
 
-- 🔭 I’m currently working on AJ ICT corp as a Web full-stack developer.
-- 🌱 I'm currently learning Back-end Skill, Algorithm.
-- 📝 I regularly write articles on [my blog](https://okdolmin.tistory.com/). 
+- 🔭 I’m currently Looking for a job
+- 🌱 I'm currently learning Front-end Skill(React), Algorithm.
+- 📝 I regularly write articles on [my blog](https://yjym33.tistory.com/). 
 <br>
 
 ### 📚 Technology Stack <br>
@@ -40,11 +40,11 @@ Thank you for watching with interest.
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kymkyj&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=yjym33&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kymkyj&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yjym33&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
