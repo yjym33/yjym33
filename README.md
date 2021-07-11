@@ -29,11 +29,11 @@ Thank you for watching with interest.
 ### 📚 Technology Stack <br>
   
 <div sttyle='float:left'>
-  <img style="margin: 10px" src="https://img.shields.io/badge/-JAVA-orange" height="25" />
+  <img style="margin: 10px" src="https://img.shields.io/badge/-JAVA-green" height="25" />
   <img style="margin: 10px" src="https://img.shields.io/badge/-Javascript-yellow" height="25" />  
-  <img style="margin: 10px" src="https://img.shields.io/badge/-React-yellow" height="25" />
+  <img style="margin: 10px" src="https://img.shields.io/badge/-React-purple" height="25" />
   <img style="margin: 10px" src="https://img.shields.io/badge/-Typescript-blue" height="25" />
-  <img style="margin: 10px" src="https://img.shields.io/badge/-Python-sky" height="25" />
+  <img style="margin: 10px" src="https://img.shields.io/badge/-Python-black" height="25" />
   <img style="margin: 10px" src="https://img.shields.io/badge/-Git-lightgrey" height="25" />
 </div>
 
