@@ -33,6 +33,7 @@ Thank you for watching with interest.
   <img style="margin: 10px" src="https://img.shields.io/badge/-Javascript-yellow" height="25" />  
   <img style="margin: 10px" src="https://img.shields.io/badge/-React-yellow" height="25" />
   <img style="margin: 10px" src="https://img.shields.io/badge/-Typescript-blue" height="25" />
+  <img style="margin: 10px" src="https://img.shields.io/badge/-Python-sky" height="25" />
   <img style="margin: 10px" src="https://img.shields.io/badge/-Git-lightgrey" height="25" />
 </div>
 
