@@ -21,7 +21,7 @@ Thank you for watching with interest.
 
 ### ✨ Summary
 
-- 🔭 I’m currently Looking for a job
+- 🔭 I’m currently Working at Gfyhealth
 - 🌱 I'm currently learning Front-end Skill(React, Typescript), Algorithm.
 - 📝 I regularly write articles on [my blog](https://yjym33.tistory.com/). 
 <br>
