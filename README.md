@@ -22,7 +22,8 @@ Thank you for watching with interest.
 
 - 🔭 I’m currently Working at Gfyhealth
 - 🌱 I'm currently learning Front-end Skill(React, Typescript), Algorithm.
-- 📝 I regularly write articles on [my blog](https://yjym33.tistory.com/). 
+- 📝 I regularly write articles on [my blog](https://yjym33.tistory.com/).
+- 📝 I'm planning to create a blog with next js.
 <br>
 
 ### 📚 Technology Stack <br>
