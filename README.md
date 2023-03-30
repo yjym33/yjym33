@@ -11,11 +11,10 @@
 
 # Hello, I'm youngJin Kim!
 
-I'm growing developer.
-I am interested in interactive development. <br>
+I'm growing Junior developer.
+I am interested in FrontEnd & Mobile.  <br>
 I want to do creative visible development. <br>
-I am also interested in new technologies such as artificial intelligence and blockchain. <br>
-I am interested in learning new skills. These days, I am studying React and Typescript, and I plan to continue studying Node.js. <br>
+I am interested in learning new skills. These days, I am studying React and Typescript, and I plan to continue studying Flutter. <br>
 Thank you for watching with interest.
 
 
@@ -29,12 +28,9 @@ Thank you for watching with interest.
 ### 📚 Technology Stack <br>
   
 <div sttyle='float:left'>
-  <img style="margin: 10px" src="https://img.shields.io/badge/-JAVA-green" height="25" />
   <img style="margin: 10px" src="https://img.shields.io/badge/-Javascript-yellow" height="25" />  
   <img style="margin: 10px" src="https://img.shields.io/badge/-React-purple" height="25" />
   <img style="margin: 10px" src="https://img.shields.io/badge/-Typescript-blue" height="25" />
-  <img style="margin: 10px" src="https://img.shields.io/badge/-Python-black" height="25" />
-  <img style="margin: 10px" src="https://img.shields.io/badge/-Git-lightgrey" height="25" />
 </div>
 
 
