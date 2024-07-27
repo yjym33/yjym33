@@ -23,7 +23,6 @@ Thank you for watching with interest.
 - 🔭 I’m currently Working at 000
 - 🌱 I'm currently learning Front-end Skill(React, Typescript), Algorithm.
 - 📝 I regularly write articles on [my blog](https://yjym33.tistory.com/).
-- 📝 I'm planning to create a blog with next js.
 <br>
 
 ### 📚 Technology Stack <br>
@@ -34,17 +33,3 @@ Thank you for watching with interest.
   <img style="margin: 10px" src="https://img.shields.io/badge/-Typescript-blue" height="25" />
   <img style="margin: 10px" src="https://img.shields.io/badge/-NextJS-white" height="25" />
 </div>
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yjym33&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yjym33&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/> 
