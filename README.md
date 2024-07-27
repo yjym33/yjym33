@@ -18,9 +18,17 @@ Junior FrontEnd Engineer
 "Hanyang University Graduate School of Engineering, Department of Computer Science and Engineering" ```(03/2021 ~ 08/2023)``` <br> (HanYang University, Seoul)   
 
 ## ADDITIONAL SKILLS
-
+<span>
+    <img src="https://img.shields.io/badge/ Javascript-yellow?style=plastic&logoColor=white"/>
+</span>
+<span>
+    <img src="https://img.shields.io/badge/ Typescript-informational?style=plastic"/>
+</span>
 <span>
     <img src="https://img.shields.io/badge/ React-blueviolet?style=plastic&logoColor=white"/>
+</span>
+<span>
+    <img src="https://img.shields.io/badge/ Redux-pink?style=plastic"/>
 </span>
 <span>
     <img src="https://img.shields.io/badge/ ReactQuery-red?style=plastic"/>
@@ -30,9 +38,6 @@ Junior FrontEnd Engineer
 </span>
 <span>
     <img src="https://img.shields.io/badge/ Zustand-black?style=plastic&logo=Zustand&logoColor=white"/>
-</span>
-<span>
-    <img src="https://img.shields.io/badge/ Python-informational?style=plastic&logo=Python&logoColor=white"/>
 </span>
 
 </div>
