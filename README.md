@@ -51,8 +51,8 @@ Junior FrontEnd Engineer
 
 ## PROJECTS
 
-- 🔗 [**AI 기반 챗봇 서비스**](https://github.com/yjym33/AI-CHATBOT)  
-  → RAG 기반 챗봇 시스템 개발(예정), NextJS 기반 프론트엔드 UI 최적화, NestJS 기반 프록시 서버 설계, 특정 도메인 특화 채팅 서비스 (예정)
+- 🔗 [**게임 특화 AI 기반 챗봇 서비스**](https://github.com/yjym33/AI-CHATBOT)  
+  → NextJS 기반 프론트엔드 UI 최적화, NestJS 기반 프록시 서버 설계, 특정 게임 특화 채팅 서비스 (예정),  RAG 기반 챗봇 시스템 개발(예정), 
 
 </div>
 </div>
