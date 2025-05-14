@@ -51,13 +51,17 @@ Junior FrontEnd Engineer
 
 ## PROJECTS
 
-- [AI 기반 챗봇 서비스](https://github.com/yjym33/AI-CHATBOT)  
-  → 진행사항 :NextJS 기반 프론트엔드 UI 최적화, NestJS 기반 프록시 서버 설계,
+- [AI 기반 챗봇 서비스](https://github.com/yjym33/AI-CHATBOT)
+  
+  → 진행사항 : MVP 개발 (NextJS 기반 프론트엔드 UI 최적화, NestJS 기반 프록시 서버 설계)
+  <br>
   → 예정 : RAG 기반 챗봇 시스템 개발(예정),
 
 - [커피/티 원두 정기 구독 쇼핑몰](https://github.com/yjym33/)
-  → 진행사항 : 기획서 작성, ERD 설계
-  → 예정 : NextJS 기반 프론트엔드 UI 구현, NestJS 기반 프록시 서버 구현
+  
+  → 진행사항 : 기획서 작성, ERD 설계 (https://yjym33.tistory.com/172)
+   <br>
+  → 예정 : MVP 개발(NextJS 기반 프론트엔드 UI 구현, NestJS 기반 프록시 서버 구현)
 
 </div>
 </div>
