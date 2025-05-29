@@ -53,9 +53,9 @@ Junior FrontEnd Engineer
 
 - [기억하는 AI 친구 (Persistent Memory Chatbot)](https://github.com/yjym33/memory-ai-friend-chat)
   
-  → 진행사항 : MVP 개발 (NextJS 기반 프론트엔드 UI 최적화, NestJS 기반 프록시 서버 설계)
+  → 진행사항 : MVP 개발 (NextJS 기반 프론트엔드 UI 최적화, NestJS 기반 프록시 서버 설계, 기존 Local LLM 방식에서 ChatGPT Api 사용하여 연결하는 방식으로 변경)
   <br>
-  → 예정 : RAG 기반 챗봇 시스템 개발(예정),
+  → 예정 : , RAG 기반 챗봇 시스템 개발(예정),
 
 - [커피/티 원두 정기 구독 쇼핑몰](https://github.com/yjym33/coffee-subscription-FE)
   
