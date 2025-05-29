@@ -51,7 +51,7 @@ Junior FrontEnd Engineer
 
 ## PROJECTS
 
-- [AI 기반 챗봇 서비스](https://github.com/yjym33/AI-CHATBOT)
+- [기억하는 AI 친구 (Persistent Memory Chatbot)](https://github.com/yjym33/AI-CHATBOT)
   
   → 진행사항 : MVP 개발 (NextJS 기반 프론트엔드 UI 최적화, NestJS 기반 프록시 서버 설계)
   <br>
