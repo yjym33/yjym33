@@ -61,7 +61,7 @@ Junior FrontEnd Engineer
   
   → 진행사항 : 기획서 작성, ERD 설계 (https://yjym33.tistory.com/172)
    <br>
-  → 예정 : MVP 개발(NextJS 기반 프론트엔드 UI 구현, NestJS 기반 프록시 서버 구현)
+  → 예정 : MVP 개발(NextJS 기반 프론트엔드 UI 구현, Spring Boot 기반 백엔드 서버구현)
 
 </div>
 </div>
