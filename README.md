@@ -49,7 +49,7 @@ Junior FrontEnd Engineer
     <img src="https://img.shields.io/badge/ Zustand-black?style=plastic&logo=Zustand&logoColor=white"/>
 </span>
 
-## PROJECTS
+## PERSONAL PROJECTS
 
 - [기억하는 AI 친구 (Persistent Memory Chatbot)](https://github.com/yjym33/memory-ai-friend-chat)
   
