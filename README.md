@@ -25,7 +25,7 @@ Junior FrontEnd Engineer
 - **Gfy Health Co., Ltd.** (09/2021 ~ 03/2024) <br>
   - FrontEnd Engineer: Responsible for developing and maintaining web applications for health data management and analysis.
 
-- **Solomon Technology Supply Co., Ltd** (02/2020 ~ 08/2020) <br>
+- **Solomon Technology Supply Co. Ltd** (02/2020 ~ 08/2020) <br>
   - **[Participation in Hyundai Engineering & Construction Integrated Payment System Construction Project]** 
   - QA & FrontEnd Engineer : As a freelancer and intern, I participated in the Hyundai E&C integrated payment system construction project, and I participated in the overall QA and internal document form system development.
   
