@@ -17,13 +17,16 @@ Junior FrontEnd Engineer
 ## EDUCATION
 "Hanyang University Graduate School of Engineering, Department of Computer Science and Engineering" ```(03/2021 ~ 08/2023)``` <br> (HanYang University, Seoul)   
 
-## CAREER
+## CAREER (3 Years 2 Month)
 
 - **Polaris AI** (07/2024 ~ 03/2025) <br>
   FrontEnd Engineer: Developed AI-driven web platforms focusing on performance optimization and user interface design.
 
 - **Gfy Health Co., Ltd.** (09/2021 ~ 03/2024) <br>
   FrontEnd Engineer: Responsible for developing and maintaining web applications for health data management and analysis.
+
+- **Hyundai Construction Project** (02/2020 ~ 08/2020) <br>
+  QA & FrontEnd Engineer : I participated in the project as a freelancer and intern and participated in the overall QA and the development of the internal document form system front.
   
 
 ## ADDITIONAL SKILLS
