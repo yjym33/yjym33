@@ -25,8 +25,8 @@ Junior FrontEnd Engineer
 - **Gfy Health Co., Ltd.** (09/2021 ~ 03/2024) <br>
   FrontEnd Engineer: Responsible for developing and maintaining web applications for health data management and analysis.
 
-- **Hyundai Construction Project** (02/2020 ~ 08/2020) <br>
-  QA & FrontEnd Engineer : I participated in the project as a freelancer and intern and participated in the overall QA and the development of the internal document form system front.
+- **Solomon Technology Supply Co., Ltd [Participation in Hyundai Engineering & Construction Integrated Payment System Construction Project]** (02/2020 ~ 08/2020) <br>
+  QA & FrontEnd Engineer : As a freelancer and intern, I participated in the Hyundai E&C integrated payment system construction project, and I participated in the overall QA and internal document form system development.
   
 
 ## ADDITIONAL SKILLS
