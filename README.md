@@ -67,13 +67,13 @@ Junior FrontEnd Engineer
    <br>
   → 예정 : 기존 구현 기능들 미구현 기능 및 버그 수정 
 
-- [감성 여행 사진 다이어리] (https://github.com/yjym33/travelLog-Frontend)
-
+- [감성 여행 사진 다이어리](https://github.com/yjym33/travelLog-Frontend)
+- 
   → 진행사항 : 기획서 작성, ERD 설계 (https://yjym33.tistory.com/190), 프론트엔드 설계 및 구현(NextJS 기반 UI 구현), 백엔드 서버 구현(nestJS + PrsimaORM + PostgreSQL 기반)
    <br>
   → 예정 : 기존 구현 기능들 미구현 기능 및 버그 수정
 
-- [개인 포트폴리오 - nextJS 기반] (https://github.com/yjym33/potpolio-nextjs)
+- [개인 포트폴리오 - nextJS 기반](https://github.com/yjym33/potpolio-nextjs)
 
   → 진행사항 : 프론트엔드 설계 및 구현(NextJS 기반 UI 구현)
    <br>
