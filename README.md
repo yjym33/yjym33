@@ -19,13 +19,13 @@ Junior FrontEnd Engineer
 
 ## CAREER (3 Years 8 Month)
 
-- **Polaris AI** (07/2024 ~ 03/2025) [8 months] <br>
+- **Polaris AI** (07/2024 ~ 03/2025) **[8 months]** <br>
   - FrontEnd Engineer: Developed AI-driven web platforms focusing on performance optimization and user interface design.
 
-- **Gfy Health Co., Ltd.** (09/2021 ~ 03/2024) [2 Years 6 Months] <br>
+- **Gfy Health Co., Ltd.** (09/2021 ~ 03/2024) **[2 Years 6 Months]** <br>
   - FrontEnd Engineer: Responsible for developing and maintaining web applications for health data management and analysis.
 
-- **Solomon Technology Supply Co. Ltd** (02/2020 ~ 08/2020) [6 Months] <br>
+- **Solomon Technology Supply Co. Ltd** (02/2020 ~ 08/2020) **[6 Months]** <br>
   - **[Participation in Hyundai Engineering & Construction Integrated Payment System Construction Project]** 
   - QA & FrontEnd Engineer : As a freelancer and intern, I participated in the Hyundai E&C integrated payment system construction project, and I participated in the overall QA and internal document form system development.
   
