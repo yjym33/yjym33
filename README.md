@@ -55,6 +55,13 @@ Junior FrontEnd Engineer
 
 ## PERSONAL PROJECTS
 
+
+- [AI 활용 투자분석 플랫폼 (Fin Sight)](https://github.com/yjym33/finSight)
+  
+  → 진행사항 : MVP 개발 완료
+  <br>
+  → 예정 : 버그 수정 
+
 - [기억하는 AI 친구 (Persistent Memory Chatbot)](https://github.com/yjym33/memory-ai-friend-chat)
   
   → 진행사항 : MVP 개발 (NextJS 기반 프론트엔드 UI 최적화, NestJS 기반 프록시 서버 설계, Langchain을 활용한 LLM 기능 구현, Langchain + LangGraph 기반 에이전트 워크플로우 구현 (미완성)
