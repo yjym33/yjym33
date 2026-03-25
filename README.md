@@ -76,7 +76,7 @@ Junior FrontEnd Engineer
 
 - [감성 여행 사진 다이어리](https://github.com/yjym33/travelLog-Frontend)
   
-  → 진행사항 : (NextJS + NestJS[PrismaORM, PostgreSQL]
+  → 진행사항 : MVP 개발 (NextJS + NestJS[PrismaORM, PostgreSQL]
    <br>
   → 예정 : 버그 수정
 
