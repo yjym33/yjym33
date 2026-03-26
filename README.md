@@ -60,7 +60,13 @@ Junior FrontEnd Engineer
   
   → 진행사항 : MVP 개발 완료 (NextJS + NestJS[TypeORM, PostgreSQL] + fastAPI(AI 서버))
   <br>
-  → 예정 : 버그 수정 
+  → 예정 : 버그 수정
+
+- [감성 여행 사진 다이어리](https://github.com/yjym33/travelLog)
+  
+  → 진행사항 : MVP 개발 (NextJS + NestJS[PrismaORM, PostgreSQL]
+   <br>
+  → 예정 : 버그 수정
 
 - [기억하는 AI 친구 (Persistent Memory Chatbot)](https://github.com/yjym33/memory-ai-friend-chat)
   
@@ -74,11 +80,6 @@ Junior FrontEnd Engineer
    <br>
   → 예정 : 백엔드 서버 구현(Springboot + JPA 기반) 및 버그 수정 
 
-- [감성 여행 사진 다이어리](https://github.com/yjym33/travelLog-Frontend)
-  
-  → 진행사항 : MVP 개발 (NextJS + NestJS[PrismaORM, PostgreSQL]
-   <br>
-  → 예정 : 버그 수정
 
 - [개인 포트폴리오 - nextJS 기반](https://github.com/yjym33/potpolio-nextjs)
 
