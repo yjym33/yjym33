@@ -68,18 +68,11 @@ Junior FrontEnd Engineer
    <br>
   → 예정 : 버그 수정
 
-- [기억하는 AI 친구 (Persistent Memory Chatbot)](https://github.com/yjym33/memory-ai-friend-chat)
-  
-  → 진행사항 : MVP 개발 ((NextJS + NestJS[TypeORM, PostgreSQL] + fastAPI(AI 서버)
-  <br>
-  → 예정 : 버그 수정 
-
 - [커피/티 원두 정기 구독 쇼핑몰](https://github.com/yjym33/coffee-subscription-FE)
   
-  → 진행사항 : 프론트엔드 설계 및 구현(NextJS 기반 UI 구현)
+  → 진행사항 :MVP 개발 ((NextJS + Springboot[JPA, PostgreSQL] + fastAPI(AI 서버)
    <br>
-  → 예정 : 백엔드 서버 구현(Springboot + JPA 기반) 및 버그 수정 
-
+  → 예정 : 버그 수정
 
 - [개인 포트폴리오 - nextJS 기반](https://github.com/yjym33/potpolio-nextjs)
 
