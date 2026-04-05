@@ -68,7 +68,7 @@ Junior FrontEnd Engineer
    <br>
   → 예정 : 버그 수정
 
-- [커피/티 원두 정기 구독 쇼핑몰](https://github.com/yjym33/coffee-subscription-FE)
+- [커피/티 원두 정기 구독 쇼핑몰](https://github.com/yjym33/BeanBliss)
   
   → 진행사항 :MVP 개발 ((NextJS + Springboot[JPA, PostgreSQL] + fastAPI(AI 서버)
    <br>
